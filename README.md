@@ -44,6 +44,3 @@ This project is built with modern web technologies:
 - Instagram: @ankush_10010
 - Telegram: @ankush_10010
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
