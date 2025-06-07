@@ -41,6 +41,6 @@ This project is built with modern web technologies:
 
 ## Contact
 
-- Instagram: @ankush_10010
+- Instagram: @ankush-10010
 - Telegram: @ankush_10010
 
